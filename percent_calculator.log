@@ -1,0 +1,345 @@
+2021-07-11 12:30:04  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:30:37  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 12:31:33  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:31:46  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 12:32:34  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 12:32:41  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 12:34:36  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 12:34:43  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 12:35:47  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:36:02  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 12:36:41  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:36:46  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 12:37:31  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:37:36  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 12:41:05  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 12:41:18  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 13:40:18  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 13:40:38  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 13:41:57  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 13:42:03  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 13:42:23  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 13:42:29  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 13:42:32  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 13:42:32  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 13:54:25  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 13:54:55  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 13:55:12  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 13:55:12  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 13:55:13  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 13:55:13  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 14:07:52  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:08:08  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:11:00  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:11:17  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:12:36  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:12:46  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:12:54  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:12:54  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:12:59  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:12:59  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:15:49  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:15:58  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:16:01  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:16:01  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:16:02  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:16:02  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:16:03  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:16:03  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:16:04  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:16:04  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:16:04  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:16:04  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename-err
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---email-err
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---message-err
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for Bajarangi
+2021-07-11 14:16:05  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---email
+2021-07-11 14:16:06  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for qa@gmail.com
+2021-07-11 14:16:06  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---message
+2021-07-11 14:16:06  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for Hello World!
+2021-07-11 14:20:07  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:20:28  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:20:39  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:20:39  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:20:42  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:20:42  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:20:42  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:20:43  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:20:44  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:20:44  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:20:45  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:20:46  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename-err
+2021-07-11 14:20:46  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---email-err
+2021-07-11 14:20:47  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---message-err
+2021-07-11 14:20:48  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:20:48  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---forename
+2021-07-11 14:20:49  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for Bajarangi
+2021-07-11 14:20:49  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---email
+2021-07-11 14:20:50  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for qa@gmail.com
+2021-07-11 14:20:50  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---message
+2021-07-11 14:20:51  [com.utility.LogUtils] (PoolService-0:) value in ter in text field success for Hello World!
+2021-07-11 14:23:57  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:24:02  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:24:07  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:24:07  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:24:08  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:24:08  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:24:08  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:24:08  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:24:09  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:24:09  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:28:38  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:28:43  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:28:48  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:28:48  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:28:49  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:28:49  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:28:49  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:28:49  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:28:49  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:28:50  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:34:05  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:34:11  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:34:16  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:34:16  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:34:16  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:34:16  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:34:16  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:34:17  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:34:17  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:34:17  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:36:01  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:36:06  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:36:10  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:36:10  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 14:36:11  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:36:11  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 14:36:11  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Contact
+2021-07-11 14:36:11  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 14:36:12  [com.utility.LogUtils] (PoolService-0:) element found for given locator value---Submit
+2021-07-11 14:36:12  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Submit
+2021-07-11 14:58:01  [com.utility.LogUtils] (PoolService-3:) browser value  fetchchrome
+2021-07-11 14:58:01  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 14:58:01  [com.utility.LogUtils] (PoolService-1:) browser value  fetchchrome
+2021-07-11 14:58:01  [com.utility.LogUtils] (PoolService-2:) browser value  fetchchrome
+2021-07-11 14:58:24  [com.utility.LogUtils] (PoolService-1:) Browser open success in chrome
+2021-07-11 14:58:24  [com.utility.LogUtils] (PoolService-2:) Browser open success in chrome
+2021-07-11 14:58:32  [com.utility.LogUtils] (PoolService-2:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:58:32  [com.utility.LogUtils] (PoolService-2:) url open sucess
+2021-07-11 14:58:46  [com.utility.LogUtils] (PoolService-1:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 14:58:46  [com.utility.LogUtils] (PoolService-3:) Browser open success in chrome
+2021-07-11 14:58:46  [com.utility.LogUtils] (PoolService-1:) url open sucess
+2021-07-11 14:58:46  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 14:59:41  [com.utility.LogUtils] (PoolService-1:) browser value  fetchchrome
+2021-07-11 14:59:41  [com.utility.LogUtils] (PoolService-2:) browser value  fetchchrome
+2021-07-11 14:59:41  [com.utility.LogUtils] (PoolService-3:) browser value  fetchchrome
+2021-07-11 14:59:41  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 15:02:26  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 15:02:34  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 15:02:38  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 15:02:38  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 15:02:39  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:02:39  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:02:40  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 15:02:40  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 15:02:40  [com.utility.LogUtils] (main:) Element found for given locator value---Submit
+2021-07-11 15:02:40  [com.utility.LogUtils] (main:) clicked on element---LinkText_Submit
+2021-07-11 15:02:41  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:02:41  [com.utility.LogUtils] (main:) Element found for given locator value---forename-err
+2021-07-11 15:02:41  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 15:02:41  [com.utility.LogUtils] (main:) Element found for given locator value---message-err
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) value entered in text field success for qa@gmail.com
+2021-07-11 15:02:42  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-11 15:02:43  [com.utility.LogUtils] (main:) value entered in text field success for Hello World!
+2021-07-11 15:03:33  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 15:03:37  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 15:03:40  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) value entered in text field success for qa@gmail.com
+2021-07-11 15:03:41  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-11 15:03:42  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-11 15:03:42  [com.utility.LogUtils] (main:) Element found for given locator value---Submit
+2021-07-11 15:03:42  [com.utility.LogUtils] (main:) clicked on element---LinkText_Submit
+2021-07-11 15:03:53  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-11 15:03:53  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-11 15:03:53  [com.utility.LogUtils] (main:) get text value for ---Xpath_//*[@class='alert alert-success']is---Thanks Bajarangi, we appreciate your feedback.
+2021-07-11 15:03:54  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 15:03:58  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 15:04:02  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 15:04:02  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 15:04:02  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:04:02  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:04:02  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 15:04:03  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 15:04:03  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:04:03  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:04:03  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-11 15:04:03  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-11 15:04:04  [com.utility.LogUtils] (main:) value entered in text field success for @@@
+2021-07-11 15:04:04  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-11 15:04:04  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 15:04:05  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 15:04:06  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 15:04:10  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 15:04:13  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 15:04:13  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 15:04:13  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:04:13  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 15:04:14  [com.utility.LogUtils] (main:) Element found for given locator value---Shop
+2021-07-11 15:04:14  [com.utility.LogUtils] (main:) clicked on element---LinkText_Shop
+2021-07-11 15:04:16  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@id='nav-cart']/a
+2021-07-11 15:04:16  [com.utility.LogUtils] (main:) clicked on element---xpath_//*[@id='nav-cart']/a
+2021-07-11 15:04:16  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-11 15:04:17  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-11 16:01:17  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 16:02:32  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 16:02:44  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:02:44  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 16:02:50  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:02:50  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:02:55  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 16:03:00  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 16:16:38  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 16:17:09  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 16:17:13  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:17:13  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 16:17:14  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 16:17:14  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 16:17:14  [com.utility.LogUtils] (PoolService-0:) Element found for given locator value---Contact
+2021-07-11 16:17:14  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 16:24:48  [com.utility.LogUtils] (PoolService-2:) browser value  fetchchrome
+2021-07-11 16:24:48  [com.utility.LogUtils] (PoolService-1:) browser value  fetchchrome
+2021-07-11 16:24:48  [com.utility.LogUtils] (PoolService-3:) browser value  fetchchrome
+2021-07-11 16:24:48  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 16:25:40  [com.utility.LogUtils] (PoolService-2:) Browser open success in chrome
+2021-07-11 16:25:41  [com.utility.LogUtils] (PoolService-3:) Browser open success in chrome
+2021-07-11 16:25:41  [com.utility.LogUtils] (PoolService-1:) Browser open success in chrome
+2021-07-11 16:25:41  [com.utility.LogUtils] (PoolService-0:) Browser open success in chrome
+2021-07-11 16:25:51  [com.utility.LogUtils] (PoolService-1:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:25:51  [com.utility.LogUtils] (PoolService-1:) url open sucess
+2021-07-11 16:25:52  [com.utility.LogUtils] (PoolService-0:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:25:52  [com.utility.LogUtils] (PoolService-0:) url open sucess
+2021-07-11 16:25:53  [com.utility.LogUtils] (PoolService-2:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:25:53  [com.utility.LogUtils] (PoolService-2:) url open sucess
+2021-07-11 16:25:53  [com.utility.LogUtils] (PoolService-3:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:25:53  [com.utility.LogUtils] (PoolService-3:) url open sucess
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-1:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-0:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-1:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-2:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-3:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-2:) Title ---Jupiter Toys
+2021-07-11 16:25:55  [com.utility.LogUtils] (PoolService-3:) Title ---Jupiter Toys
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-1:) Element found for given locator value---Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-0:) Element found for given locator value---Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-3:) Element found for given locator value---Shop
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-2:) Element found for given locator value---Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-1:) clicked on element---LinkText_Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-2:) clicked on element---LinkText_Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-0:) clicked on element---LinkText_Contact
+2021-07-11 16:25:56  [com.utility.LogUtils] (PoolService-3:) clicked on element---LinkText_Shop
+2021-07-11 16:45:30  [com.utility.LogUtils] (PoolService-2:) browser value  fetchchrome
+2021-07-11 16:45:30  [com.utility.LogUtils] (PoolService-3:) browser value  fetchchrome
+2021-07-11 16:45:30  [com.utility.LogUtils] (PoolService-0:) browser value  fetchchrome
+2021-07-11 16:45:30  [com.utility.LogUtils] (PoolService-1:) browser value  fetchchrome
+2021-07-11 16:46:08  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 16:46:17  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 16:46:29  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:46:29  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 16:46:33  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:46:33  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:46:35  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 16:46:36  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 16:46:39  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 16:46:42  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 16:46:45  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:46:45  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 16:46:47  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:46:47  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:46:47  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 16:46:47  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 16:46:48  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 16:46:48  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 16:46:48  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-11 16:46:48  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-11 16:46:48  [com.utility.LogUtils] (main:) value entered in text field success for qa@gmail.com
+2021-07-11 16:46:49  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-11 16:46:49  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-11 16:46:50  [com.utility.LogUtils] (main:) Element found for given locator value---Submit
+2021-07-11 16:46:50  [com.utility.LogUtils] (main:) clicked on element---LinkText_Submit
+2021-07-11 16:46:52  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-11 16:46:52  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-11 16:46:52  [com.utility.LogUtils] (main:) get text value for ---Xpath_//*[@class='alert alert-success']is---Thanks Bajarangi, we appreciate your feedback.
+2021-07-11 16:46:54  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 16:46:57  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 16:47:00  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:47:00  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 16:47:00  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:47:00  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-11 16:47:01  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-11 16:47:02  [com.utility.LogUtils] (main:) value entered in text field success for @@@
+2021-07-11 16:47:02  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-11 16:47:02  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-11 16:47:02  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-11 16:47:03  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-11 16:47:04  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-11 16:47:07  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-11 16:47:10  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-11 16:47:10  [com.utility.LogUtils] (main:) url open sucess
+2021-07-11 16:47:10  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:47:10  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-11 16:47:11  [com.utility.LogUtils] (main:) Element found for given locator value---Shop
+2021-07-11 16:47:11  [com.utility.LogUtils] (main:) clicked on element---LinkText_Shop
+2021-07-11 16:47:19  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@id='nav-cart']/a
+2021-07-11 16:47:19  [com.utility.LogUtils] (main:) clicked on element---xpath_//*[@id='nav-cart']/a
+2021-07-11 16:47:20  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-11 16:47:22  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-12 11:43:03  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-12 11:43:40  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-12 11:43:44  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-12 11:43:44  [com.utility.LogUtils] (main:) url open sucess
+2021-07-12 11:43:45  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 11:43:45  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 11:43:46  [com.utility.LogUtils] (main:) Element found for given locator value---Shop
+2021-07-12 11:43:46  [com.utility.LogUtils] (main:) clicked on element---LinkText_Shop
+2021-07-12 11:43:50  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@id='nav-cart']/a
+2021-07-12 11:43:50  [com.utility.LogUtils] (main:) clicked on element---xpath_//*[@id='nav-cart']/a
+2021-07-12 11:43:52  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-12 11:43:52  [com.utility.LogUtils] (main:) quantity-matched Expected iteamFunny Cow and   actual Expected iteamFunny Cow
+2021-07-12 11:43:53  [com.utility.LogUtils] (main:) quantity-matched Expected QuantityName2   actualQuantity2
+2021-07-12 11:43:53  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-12 11:43:53  [com.utility.LogUtils] (main:) quantity-matched Expected iteamFluffy Bunny and   actual Expected iteamFluffy Bunny
+2021-07-12 11:43:53  [com.utility.LogUtils] (main:) quantity-matched Expected QuantityName1   actualQuantity1
