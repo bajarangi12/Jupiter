@@ -1,20 +1,20 @@
 Feature: Test Application scenarios
 
-@TestQA
+  @TestQA
   Scenario: TC01validtion of  error of mandatory field
     Given I launch browser and open application
     And Verify title of application
     When I click on "Contact" link
-    #And I click on "Submit" link
-    #And user validates errors  for below
-      #| FieldName | ErrorMessage         |
-      #| Forename  | Forename is required |
-      #| Email     | Email is required    |
-      #| Message   | Message is required  |
-    #And I fill the mandatory field in form
-      #| Forename  | Email        | Message      |
-      #| Bajarangi | qa@gmail.com | Hello World! |
-    #Then user validates all errors are gone
+    And I click on "Submit" link
+    And user validates errors  for below
+      | FieldName | ErrorMessage         |
+      | Forename  | Forename is required |
+      | Email     | Email is required    |
+      | Message   | Message is required  |
+    And I fill the mandatory field in form
+      | Forename  | Email        | Message      |
+      | Bajarangi | qa@gmail.com | Hello World! |
+    Then user validates all errors are gone
 
   @TestQA
   Scenario: TC02 case for fill contact details with valid data

@@ -343,3 +343,83 @@
 2021-07-12 11:43:53  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
 2021-07-12 11:43:53  [com.utility.LogUtils] (main:) quantity-matched Expected iteamFluffy Bunny and   actual Expected iteamFluffy Bunny
 2021-07-12 11:43:53  [com.utility.LogUtils] (main:) quantity-matched Expected QuantityName1   actualQuantity1
+2021-07-12 12:08:22  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-12 12:08:31  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-12 12:08:35  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-12 12:08:35  [com.utility.LogUtils] (main:) url open sucess
+2021-07-12 12:08:35  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:08:35  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:08:36  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-12 12:08:37  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-12 12:08:37  [com.utility.LogUtils] (main:) Element found for given locator value---Submit
+2021-07-12 12:08:37  [com.utility.LogUtils] (main:) clicked on element---LinkText_Submit
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---forename-err
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---message-err
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:08:38  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:08:39  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-12 12:08:39  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-12 12:08:40  [com.utility.LogUtils] (main:) value entered in text field success for qa@gmail.com
+2021-07-12 12:08:40  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-12 12:08:40  [com.utility.LogUtils] (main:) value entered in text field success for Hello World!
+2021-07-12 12:09:28  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-12 12:09:31  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-12 12:09:34  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-12 12:09:34  [com.utility.LogUtils] (main:) url open sucess
+2021-07-12 12:09:35  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:09:35  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:09:36  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-12 12:09:36  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-12 12:09:36  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:09:36  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:09:37  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-12 12:09:37  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-12 12:09:37  [com.utility.LogUtils] (main:) value entered in text field success for qa@gmail.com
+2021-07-12 12:09:37  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-12 12:09:38  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-12 12:09:38  [com.utility.LogUtils] (main:) Element found for given locator value---Submit
+2021-07-12 12:09:38  [com.utility.LogUtils] (main:) clicked on element---LinkText_Submit
+2021-07-12 12:09:49  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-12 12:09:49  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@class='alert alert-success']
+2021-07-12 12:09:49  [com.utility.LogUtils] (main:) get text value for ---Xpath_//*[@class='alert alert-success']is---Thanks Bajarangi, we appreciate your feedback.
+2021-07-12 12:09:51  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-12 12:09:55  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-12 12:09:58  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-12 12:09:58  [com.utility.LogUtils] (main:) url open sucess
+2021-07-12 12:09:58  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:09:58  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:09:59  [com.utility.LogUtils] (main:) Element found for given locator value---Contact
+2021-07-12 12:09:59  [com.utility.LogUtils] (main:) clicked on element---LinkText_Contact
+2021-07-12 12:09:59  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:09:59  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:09:59  [com.utility.LogUtils] (main:) value entered in text field success for Bajarangi
+2021-07-12 12:10:00  [com.utility.LogUtils] (main:) Element found for given locator value---email
+2021-07-12 12:10:00  [com.utility.LogUtils] (main:) value entered in text field success for @@@
+2021-07-12 12:10:00  [com.utility.LogUtils] (main:) Element found for given locator value---message
+2021-07-12 12:10:00  [com.utility.LogUtils] (main:) value entered in text field success for message
+2021-07-12 12:10:00  [com.utility.LogUtils] (main:) Element found for given locator value---forename
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) Element found for given locator value---email-err
+2021-07-12 12:10:01  [com.utility.LogUtils] (main:) get text value for ---ID_email-erris---Please enter a valid email
+2021-07-12 12:10:02  [com.utility.LogUtils] (main:) browser value  fetchchrome
+2021-07-12 12:10:05  [com.utility.LogUtils] (main:) Browser open success in chrome
+2021-07-12 12:10:08  [com.utility.LogUtils] (main:) url open sucesshttps://jupiter.cloud.planittesting.com/
+2021-07-12 12:10:08  [com.utility.LogUtils] (main:) url open sucess
+2021-07-12 12:10:08  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:10:09  [com.utility.LogUtils] (main:) Title ---Jupiter Toys
+2021-07-12 12:10:09  [com.utility.LogUtils] (main:) Element found for given locator value---Shop
+2021-07-12 12:10:09  [com.utility.LogUtils] (main:) clicked on element---LinkText_Shop
+2021-07-12 12:10:11  [com.utility.LogUtils] (main:) Element found for given locator value---//*[@id='nav-cart']/a
+2021-07-12 12:10:11  [com.utility.LogUtils] (main:) clicked on element---xpath_//*[@id='nav-cart']/a
+2021-07-12 12:10:11  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-12 12:10:12  [com.utility.LogUtils] (main:) quantity-matched Expected iteamFunny Cow and   actual Expected iteamFunny Cow
+2021-07-12 12:10:12  [com.utility.LogUtils] (main:) quantity-matched Expected QuantityName2   actualQuantity2
+2021-07-12 12:10:12  [com.utility.LogUtils] (main:) Element found for given locator value---//table[@class='table table-striped cart-items']
+2021-07-12 12:10:12  [com.utility.LogUtils] (main:) quantity-matched Expected iteamFluffy Bunny and   actual Expected iteamFluffy Bunny
+2021-07-12 12:10:12  [com.utility.LogUtils] (main:) quantity-matched Expected QuantityName1   actualQuantity1

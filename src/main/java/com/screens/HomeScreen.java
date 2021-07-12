@@ -45,8 +45,7 @@ public class HomeScreen {
 		if (ExpextedRowCount > 0) {
 			for (int i = 0; i < ExpextedRowCount; i++) {
 				map = allData.get(i);
-				if (map.get("FieldName").equalsIgnoreCase("Forename") || map.get("FieldName").equalsIgnoreCase("Email")
-						|| map.get("FieldName").equalsIgnoreCase("Message")) {
+				
 					if (map.get("FieldName").equalsIgnoreCase("Forename"))
 
 					{
@@ -59,7 +58,7 @@ public class HomeScreen {
 						}
 					}
 
-					if (map.get("FieldName").equalsIgnoreCase("Email"))
+					else if (map.get("FieldName").equalsIgnoreCase("Email"))
 
 					{
 
@@ -70,7 +69,7 @@ public class HomeScreen {
 							ActualCount++;
 						}
 					}
-					if (map.get("FieldName").equalsIgnoreCase("Message"))
+					else if (map.get("FieldName").equalsIgnoreCase("Message"))
 
 					{
 
@@ -81,7 +80,7 @@ public class HomeScreen {
 							ActualCount++;
 						}
 					}
-				}
+				
 			}
 		}
 
